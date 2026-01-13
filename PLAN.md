@@ -27,9 +27,15 @@ We will run Open WebUI locally using Docker to verify the UI, customize branding
   - _Note to Agent:_ Do not proceed until the container is running and healthy.
 
 - [ ] **Step 1.3: Generate Customization Assets**
+
   - Create a folder `assets/`.
   - Generate a placeholder `logo.png` (or ask user to provide one).
   - Create a text file `assets/system_prompt.txt` with a default corporate system prompt (e.g., "You are a helpful AI assistant for [Company Name]...").
+
+- [ ] **Step 1.4: Prepare Agent Tools**
+  - Create `assets/tools/web_search.py` for internet access.
+  - Create `assets/tools/deep_research.py` for comprehensive research capabilities.
+  - See `docs/AGENT_AND_TOOLS.md` for installation instructions.
 
 ---
 

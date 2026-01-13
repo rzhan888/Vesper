@@ -33,6 +33,11 @@ Welcome to the Company AI Chat! This tool provides a secure, private, and powerf
 - Click the model name at the top of the chat window (e.g., "GPT-4").
 - Select a different model if available (e.g., "GPT-3.5-Turbo") depending on your needs (Speed vs. Intelligence).
 
+### 4. Agent Mode & Deep Research
+
+- **Agent Mode (Web Search)**: Enable the "Web Search" tool to give the AI access to real-time information from the internet.
+- **Deep Research**: Use the "Deep Research" tool for comprehensive topic analysis. The AI will perform multiple searches, read content from websites, and synthesize a detailed report.
+
 ## Support
 
 For issues, please contact the IT Helpdesk or the DevOps team.
